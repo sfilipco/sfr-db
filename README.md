@@ -1,2 +1,2 @@
 # sfr-db
-Experimental DB
+Writing a DB for fun.
